@@ -1,0 +1,10 @@
+*{
+    background-color: black;
+    margin: 0;
+    overflow: hidden;
+}
+
+canvas{
+    position: absolute;
+    left: 25%;
+}
